@@ -1,5 +1,5 @@
 {
-  "name": "libsignal-node-vinzz",
+  "name": "libsignal-node",
   "version": "1.0.2",
   "description": "Open Whisper Systems' libsignal for Node.js",
   "repository": "VinzzOfficial/libsignal-node", 
